@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loulr
 - 👀 I’m interested in sports, music and health
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on physiological signals analysis projects
+- 💞️ I’m looking to collaborate on AIoT
 - 📫 How to reach me twitter @loulrrr 
 
 <!---
