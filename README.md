@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loulr
 - 👀 I’m interested in technology, engineering 4.0, sports and music!
-- 🌱 I’m currently looking for a job in data science
+- 🌱 I’m currently working in data science
 - 💞️ I’m looking to collaborate on AIoT
 
 <!---
